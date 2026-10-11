@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Columnar graph storage for NetworkX backed by Apache Arrow"
 readme = "README.md"
 requires-python = ">=3.12"
-license = "BSD-3-Clause"
+license = "BSD-3-Clause OR MIT"
 keywords = ["networks", "graph theory", "apache arrow", "networkx", "columnar"]
 classifiers = [
     "Development Status :: 3 - Alpha",
